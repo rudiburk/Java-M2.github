@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Cabin', sans-serif;
+    color: var(--negroL);
+}
+.navbar{
+    font-family: 'Cabin', cursive;
+    font-size: 37px;
+}
+.header-subtitle{
+    font-size: 40px;
+}
+.header__text-content{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.receta__ingredientes--lista{
+    list-style: none;
+}
+.card{
+    width: 316px;
+}
+.ricomida{
+    font-family: 'Lobster', cursive;
+
+}
+
+
+.footer-button{
+    margin:2rem auto 5rem;
+}
+.sub-footer{
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+    text-align: center;
+}
+.cambio-color-a-rojito{
+    color: red;
+}
